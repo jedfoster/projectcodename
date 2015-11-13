@@ -4,38 +4,36 @@ var attributes = [
 	// Stealth and cunning
 	"hidden", "covert", "uncanny", "scheming", "decisive",
 	// Volitility
-	"rowdy", "dangerous", "explosive", "threatening", "warring",
+	"rowdy", "dangerous", "explosive", "threatening",
 	// Needs correction
-	"bad", "unnecessary", "unknown", "unexpected", "waning", 
+	"bad", "unnecessary", "unknown", "unexpected", "rude", "nefarious",
 	// Organic Gems and materials
-	"amber", "bone", "coral", "ivory", "jet", "nacre", "pearl", "obsidian", "glass",
+	"amber", "bone", "coral", "ivory", "pearl", 
 	// Regular Gems
-	"agate", "beryl", "diamond", "opal", "ruby", "onyx", "sapphire", "emerald", "jade",
+	"diamond", "ruby", "jade",
+  // Cloth Materials
+  "cotton", "linen", "rubber", "silk", "straw", "woolen",
 	// Colors
-	"red", "orange", "yellow", "green", "blue", "violet",
+  "red", "orange", "yellow", "green", "blue", "violet", "beige", "crimson", "indigo", "creme",
+  //Adjectives
+  "angry", "beautiful", "brave", "careful", "careless", "clever", "crazy", "cute", "dangerous", "exciting", "famous", "friendly", "happy", "interesting", "lucky", "popular", "rich", "sad", "thin", "unlucky", 
 ]
 
 var objects = [
 	// Large cats
-	"panther", "wildcat", "tiger", "lion", "cheetah", "cougar", "leopard",
+	"panther", "lion", "leopard", "house cat",
 	// Snakes
-	"viper", "cottonmouth", "python", "boa", "sidewinder", "cobra",
+	"viper", "cobra",
 	// Other predators
 	"grizzly", "jackal", "falcon",
 	// Prey
-	"wildabeast", "gazelle", "zebra", "elk", "moose", "deer", "stag", "pony",
-	// HORSES!
-	"horse", "stallion", "foal", "colt", "mare", "yearling", "filly", "gelding",
+	"zebra", "elk", "moose", "llama", "alpaca",
 	// Occupations
-	"nomad", "wizard", "cleric", "pilot",
-	// Technology
-	"mainframe", "device", "motherboard", "network", "transistor", "packet", "robot", "android", "cyborg",
+	"wizard", "cleric", "pilot",
 	// Sea life
-	"octopus", "lobster", "crab", "barnacle", "hammerhead", "orca", "piranha",
+	"octopus", "lobster", "hammerhead", "orca",
 	// Weather
-	"storm", "thunder", "lightning", "rain", "hail", "sun", "drought", "snow",
-	// Other
-	"warning", "presence", "weapon"
+	"storm", "thunder", "lightning", "rain", "hail", "sun", "snow",
 ]
 
 var type = "PROJECT";
