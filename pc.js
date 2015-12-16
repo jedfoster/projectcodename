@@ -1,6 +1,6 @@
 var attributes = [
 	// Environ
-	"desert", "tundra", "mountain", "space", "field", "urban",
+	"desert", "tundra", "mountain", "space", "field", "urban", "intergalactic",
 	// Stealth and cunning
 	"hidden", "covert", "uncanny", "scheming", "decisive",
 	// Volitility
@@ -15,8 +15,10 @@ var attributes = [
   "cotton", "linen", "rubber", "silk", "straw", "woolen",
 	// Colors
   "red", "orange", "yellow", "green", "blue", "violet", "beige", "crimson", "indigo", "creme",
-  //Adjectives
+  // Adjectives
   "angry", "beautiful", "brave", "careful", "careless", "clever", "crazy", "cute", "dangerous", "exciting", "famous", "friendly", "happy", "interesting", "lucky", "popular", "rich", "sad", "thin", "unlucky", 
+  // Light
+  "blazing", "glittering", "radiant", "glowing", "brilliant", "luminous", "incandescent",
 ]
 
 var objects = [
