@@ -27,7 +27,7 @@ var attributes = [
   'angry', 'beautiful', 'brave', 'careful', 'careless', 'clever', 'crazy', 'cute', 'dangerous', 'exciting', 'famous', 'friendly', 'happy', 'interesting', 'lucky', 'popular', 'rich', 'thin', 'unlucky',
   // Light
   'blazing', 'glittering', 'radiant', 'glowing', 'brilliant', 'luminous', 'incandescent',
-]
+];
 
 var objects = [
 	// Large cats
@@ -44,7 +44,7 @@ var objects = [
 	'octopus', 'lobster', 'hammerhead', 'orca',
 	// Weather
 	'storm', 'thunder', 'lightning', 'rain', 'hail', 'sun', 'snow',
-]
+];
 
 function createCodename() {
 	var attribute = attributes[Math.floor(Math.random() * attributes.length)];
