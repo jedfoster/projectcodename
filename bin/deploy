@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+scotty -u -b codename.drft.io
